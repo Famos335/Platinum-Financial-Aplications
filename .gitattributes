@@ -1,0 +1,19 @@
+*.EXE binary
+*.exe binary
+*.COM binary
+*.com binary
+*.ZIP binary
+*.zip binary
+*.EXZ binary
+*.PDF binary
+*.pdf binary
+*.HLP binary
+*.hlp binary
+*.INS binary
+*.ins binary
+*.md text eol=lf
+*.txt text eol=lf
+*.IL text eol=lf
+DIDFIL01 binary
+ILVER binary
+*/ILVER binary
